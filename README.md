@@ -1,2 +1,2 @@
-# An-lisisEstad-sticoI
+# AnalisisEstadisticoI
 Análisis Estadístico I Cátedra Bianco FCE UBA
